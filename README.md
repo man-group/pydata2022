@@ -33,5 +33,7 @@ df = pd.read_parquet("./option_chain_data.parquet")
 
 https://www.surveymonkey.co.uk/r/N67PXD9
 
-<img src="submit_your_work.PNG" alt="submission" width="500px"/>
+<img src="image.png" alt="submission" width="500px"/>
+
+<img src="QR_code_N67PXD9.png" alt="qr-code" width="250"/>
 
