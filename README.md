@@ -14,6 +14,7 @@ https://www.investopedia.com/terms/o/optionchain.asp#:~:text=An%20options%20chai
 
 ### Submit your notebook before 26 June 2022 and win a prize. We'll also invite the winner to tour our office :)
 
+<img src="man-office.jpg" alt="man-office" width="500"/>
 
 What good is data without a plot to tell the story?
 
