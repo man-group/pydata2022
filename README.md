@@ -11,7 +11,6 @@ What is option chain data?
 https://www.investopedia.com/terms/o/optionchain.asp#:~:text=An%20options%20chain%2C%20also%20known,within%20a%20given%20maturity%20period.
 
 
-
 ### Submit your notebook before 26 June 2022 and win a prize. We'll also invite the winner to tour our office :)
 
 <img src="man-office.jpg" alt="man-office" width="500"/>
