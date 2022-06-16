@@ -4,7 +4,7 @@
 
 ## Jupyter Notebook Plotting Competition 
 
-For this competition, we are calling on bright minds from PyData2022 event to showcase their skills and develop a visualization for option chain data.
+For this competition, we are calling on bright minds from the PyData2022 event to showcase their skills and develop a visualization for option chain data.
 
 What is option chain data?
 
@@ -19,6 +19,12 @@ What good is data without a plot to tell the story?
 
 ### How to load option chain data?
 
+```bash
+git clone https://github.com/man-group/pydata2022.git
+cd pydata2022
+python
+```
+
 ```python
 import pandas as pd
 
@@ -27,8 +33,8 @@ df = pd.read_parquet("./option_chain_data.parquet")
 
 ### How to submit my work?
 
-1. Upload your Notebook to your github account.
-2. Copy the url from your Notebook
+1. Upload your Notebook to a publicly-available github repo.
+2. Copy the url to your Notebook
 3. Provide details:
 
 https://www.surveymonkey.co.uk/r/N67PXD9
